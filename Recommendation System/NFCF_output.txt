@@ -1,0 +1,60 @@
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
+average differential fairness for gender:  0.091
+absolute unfairness for gender:  0.081
+average differential fairness for age:  0.106
+absolute unfairness for age:  0.043
+average differential fairness for age:  0.825
+absolute unfairness for age:  0.050
